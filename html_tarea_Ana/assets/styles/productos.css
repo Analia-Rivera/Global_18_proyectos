@@ -1,0 +1,8 @@
+nav.table_products {
+   margin-top: 100px;
+   width: 100vw;
+    height: auto;
+    object-fit: contain; /* mantiene proporción */
+    display: block;
+    margin: 0 auto;
+}
